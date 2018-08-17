@@ -1,0 +1,18 @@
+{
+  "name": "bot-nlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "basic": "node basic"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "express": "^4.16.3",
+    "node-nlp": "^1.2.2"
+  }
+}
